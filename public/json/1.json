@@ -1,0 +1,36 @@
+[
+    {
+        "id":1, 
+        "nombre": "Pepito", 
+        "apellido": "Perez Rojas", 
+        "telefono": "1111111", 
+        "direccion": "Calle San Juan", 
+        "EPS": "Sura", "tipoSangre":"O+", 
+        "alergias":["polen"], 
+        "categoria": "endocrinología", 
+        "enfermedades": 
+            ["hipotiroidismo"],
+        "medicamentos":
+            [
+                "levotiroxina", 
+                "timazol"
+            ],
+        "personalMedico": 1,
+        "fecha": "2020-12-21 10:01:26",
+        "tomaMedicamentos": true,
+        "temperatura": 38,
+        "presion": "120/80",
+        "nivelGlucosa":"NA",
+        "spO2": 95,
+        "sintomas":[
+            "dolor de cabeza",
+            "mareos"
+        ],
+        "tratamiento": "NA",
+        "novedades":[
+            "fiebre",
+            "toma de acetaminofen",
+            "requiere control"
+        ]       
+    }
+]

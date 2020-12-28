@@ -1,0 +1,12 @@
+img{
+    height: 100vh;
+    object-fit: cover;
+}
+
+.contact-info{
+    margin-top: 1rem;
+}
+
+.contact-map{
+    margin-top: 1rem;
+}

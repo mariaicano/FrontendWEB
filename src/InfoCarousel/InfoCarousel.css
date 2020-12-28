@@ -1,0 +1,8 @@
+.carousel-image{
+    height:100vh;
+    object-fit: cover;
+}
+
+.carousel-caption{
+    background-color: #47667981;
+}

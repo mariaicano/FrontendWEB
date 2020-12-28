@@ -1,0 +1,5 @@
+[
+    {"id":1, "nombre": "Pepito", "apellido": "Perez Rojas", "telefono": "1111111", "direccion": "Calle San Juan", "EPS": "Sura", "tipoSangre":"O+", "alergias":["polen"], "categoria": "endocrinología", "enfermedades": ["hipotiroidismo"],"medicamentos":["levotiroxina", "timazol"]},
+    {"id":2, "nombre": "Juanito", "apellido": "Gómez Mejía", "telefono": "2222222", "direccion": "Avenida Oriental", "EPS": "Comeva", "tipoSangre":"A+", "alergias":["Ninguna"], "categoria": "Neurología", "enfermedades": ["Parkinson"],"medicamentos":["Carbidopa-levodopa", "Amantadina"]},
+    {"id":3, "nombre": "Sultanito", "apellido": "Álvarez Guzmán", "telefono": "3333333", "direccion": "Calle Junín", "EPS": "Sanitas", "tipoSangre":"O+", "alergias":["Maní", "Lacteos"], "categoria": "Cardiología", "enfermedades": ["Insifuciencia cardiaca"],"medicamentos":["carvedilol ", "metoprolol ","bisoprolol"]} 
+]
