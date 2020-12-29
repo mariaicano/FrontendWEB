@@ -13,7 +13,7 @@ function InfoCarousel() {
                     alt="Bienvenido"
                 />
                 <Carousel.Caption className="carousel-caption">
-                    <h3>BIENVENIDO</h3>
+                    <h3>Bienvenido</h3>
                     <p>Tu colaboración hace que el seguimiento de nuestros pacientes sea más eficiente y todos estemos conectados.</p>
                 </Carousel.Caption>
             </Carousel.Item>
@@ -26,7 +26,7 @@ function InfoCarousel() {
                 />
 
                 <Carousel.Caption className="carousel-caption">
-                    <h3>EQUIPOS MÉDICOS EN CASA</h3>
+                    <h3>Equipos médicos en casa</h3>
                     <p>Ahora tenemos disponibles equipos que se podrá llevar para su hogar para que pueda hacer un seguimiento más completo de nuestros pacientes, de esta forma podremos cuidar a nuestros pacientes desde la comodidad del hogar pero con un servicio hospitalario completo.</p>
                 </Carousel.Caption>
             </Carousel.Item>
@@ -39,7 +39,7 @@ function InfoCarousel() {
                 />
 
                 <Carousel.Caption className="carousel-caption">
-                    <h3>¡NO SE PREOCUPE!</h3>
+                    <h3>¡No se preocupe!</h3>
                     <p>Durante esta época de pandemia, nuestros servicios se siguen prestando con normalidad; los médicos y enfermeras estarán siempre disponibles. Si usted tiene síntomas, póngase en contacto con nosotros para asesorarlo sobre la continuidad del seguimiento de nuestros pacientes.</p>
                 </Carousel.Caption>
             </Carousel.Item>

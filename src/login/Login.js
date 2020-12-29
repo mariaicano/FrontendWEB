@@ -22,7 +22,7 @@ function Login() {
     if (username === 'admin' && password === '0000') {
       userHasAuthenticated(true);
     } else {
-      alert('usuario o contraseña incorrectos');
+      alert('Usuario o contraseña incorrectos, por favor intente de nuevo.');
     }
   }
 
@@ -43,7 +43,7 @@ function Login() {
             </Form.Group>
 
             <Form.Group controlId="password">
-              <Form.Label>Password</Form.Label>
+              <Form.Label>Contraseña</Form.Label>
               <Form.Control
                 type="password"
                 placeholder="Contraseña" 

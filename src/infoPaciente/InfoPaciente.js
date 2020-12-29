@@ -16,7 +16,7 @@ function InfoPaciente(props) {
     if (paciente) {
         return (
             paciente.map(pacientes => (
-                <Card className="mt-5">
+                <Card className="card-all">
                     <Card.Body>
                         <Card.Title>{pacientes.nombre} {pacientes.apellido}</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted">Categoría: {pacientes.categoria}</Card.Subtitle>

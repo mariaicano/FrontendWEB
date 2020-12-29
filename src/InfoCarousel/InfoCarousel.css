@@ -6,3 +6,7 @@
 .carousel-caption{
     background-color: #47667981;
 }
+
+.carousel-caption h3{
+    font-family: 'Fuente';
+}

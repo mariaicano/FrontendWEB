@@ -16,19 +16,19 @@ function Contacto(){
             <Row>
                 <Col className="contact-info">
                     <Card>
-                    <   Card.Body>
-                        Líneas de atención:<br/>
-                        
-                        Medellín: 000 00 00<br/>
-                        Bogotá: 000 00 01<br/>
-                        Resto del país: 01 8000 000 000<br/>
-                        <br/>
-                        Dirección:<br/>
-                        Calle 1 # 1, Medellín, Antioquia.<br/>
-                        <br/>
-                        Correo:
-                        informacion@sigueme.com
-                    </Card.Body>
+                        <Card.Title className="card-title">Contáctenos</Card.Title>
+                            <Card.Body className="card-body">
+                                Líneas de atención:<br/>
+                                Medellín: 000 00 00<br/>
+                                Bogotá: 000 00 01<br/>
+                                Resto del país: 01 8000 000 000<br/>
+                                <br/>
+                                Dirección:<br/>
+                                Calle 1 # 1, Medellín, Antioquia.<br/>
+                                <br/>
+                                Correo:
+                                informacion@sigueme.com
+                            </Card.Body>
                     </Card>
                 </Col>
                 <Col className="contact-map">

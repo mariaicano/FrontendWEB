@@ -16,7 +16,7 @@ function Header( {location }) {
     return (
 
         <Navbar className="Navbar-principal" collapseOnSelect bg="light" expand="lg" fixed="top" variant="light">
-            <Navbar.Brand href="/home">Nombre</Navbar.Brand>
+            <Navbar.Brand className="brand" href="/home">Sígueme</Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="mr-auto">

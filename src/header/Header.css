@@ -1,0 +1,9 @@
+.Navbar-principal{
+    background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(210,228,235,1) 100%);
+}
+
+.Navbar-principal .brand{
+    font-family: 'Fuente';
+    font-size: 3rem;
+}

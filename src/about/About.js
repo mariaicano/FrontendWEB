@@ -8,11 +8,11 @@ import './About.css';
 function About() {
     return (
         <div>
-            <Jumbotron fluid>
+            <Jumbotron fluid className="jumbo">
                 <Container>
                     <h1>Nuestro equipo</h1>
                     <p>
-                    Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.
+                    Nuestro equipo está formado por miles de personas que, gracias a sus seguimientos, hacen posible que el cuidado de los pacientes esté unificada. La idea surgió de un grupo de 6 personas que buscaron crear un método de conectar todos los cuidados que recibe un paciente tanto en la estadía en el hospital como la estadía en su hogar cuando requiere seguimiento. Así, logramos conectar familiares y médicos de diferentes entidades promotoras de salud (EPS) para que el historial médico de los pacientes sea uno solo.
                     </p>
                 </Container>
             </Jumbotron>
@@ -21,18 +21,18 @@ function About() {
                 <Row className="row">
                     <Col className="column">
                         <img src="https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=2133&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F21%2F2019%2F11%2Florena-garcc3ada-2000.jpg" alt="image1"/>
-                        <img src="https://elcomercio.pe/resizer/gTPyzG1YwiucA3GUqgdvwvCwgeM=/640x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/Z6Z2U56D2NDNVM6LS442K2SQMM.jpg" alt="image1"/> 
+                        <img src="https://elcomercio.pe/resizer/gTPyzG1YwiucA3GUqgdvwvCwgeM=/640x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/Z6Z2U56D2NDNVM6LS442K2SQMM.jpg" alt="image2"/> 
                         
                     </Col>
                     
                     <Col className="column">
-                        <img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F21%2F2019%2F11%2Fgrettell-valdez-2000.jpg" alt="image1"/>
-                        <img src="https://elcomercio.pe/resizer/S3PkNFjCTRQ8kQ5Gi1gpzOxAuug=/400x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/6EFF2E6IB5BTPNRK3K65U4B2PQ.jpg" alt="image1"/>
+                        <img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F21%2F2019%2F11%2Fgrettell-valdez-2000.jpg" alt="image3"/>
+                        <img src="https://elcomercio.pe/resizer/S3PkNFjCTRQ8kQ5Gi1gpzOxAuug=/400x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/6EFF2E6IB5BTPNRK3K65U4B2PQ.jpg" alt="image4"/>
                     </Col>
 
                     <Col className="column">
-                        <img src="https://elcomercio.pe/resizer/b0IFn70d9-xWCORJ-41qshwYYUo=/400x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/GYPX2HSQ3RHJVDHGLAHYRCESAM.jpg" alt="image1"/>
-                        <img src="https://elcomercio.pe/resizer/qHCX0NxaYqneIc_SQlU9UprT7Ng=/400x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/C57BXDAL7JHE5JYKVYP6MQWKRA.jpg" alt="image1"/>
+                        <img src="https://elcomercio.pe/resizer/b0IFn70d9-xWCORJ-41qshwYYUo=/400x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/GYPX2HSQ3RHJVDHGLAHYRCESAM.jpg" alt="image5"/>
+                        <img src="https://elcomercio.pe/resizer/qHCX0NxaYqneIc_SQlU9UprT7Ng=/400x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/C57BXDAL7JHE5JYKVYP6MQWKRA.jpg" alt="image6"/>
                     </Col>
                 
                 </Row>
